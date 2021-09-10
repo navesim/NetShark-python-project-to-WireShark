@@ -1,0 +1,2 @@
+The project includ OOP and it's target is to show you what wireshark can do, listen on your network card and filted the information for you
+The project requirement are python of course and the module scapy, which not come as default library
